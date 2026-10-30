@@ -1,103 +1,60 @@
-# Smart Keyword Extractor (SKE)
+# 🔍 Smart Keyword Extractor (SKE)
 
-A Python-based text analysis application built with Streamlit to help users identify important keywords, analyze word frequency, explore topics, and extract meaningful information from text.
+**An NLP-powered text analysis application built with Python and Streamlit.**
 
-## Overview
+Explore text, extract meaningful keywords, analyze word frequency, identify key sentences, and generate revision notes through an interactive interface.
 
-Smart Keyword Extractor (SKE) is an NLP-based application designed to simplify text analysis. It provides an interactive interface for exploring text and identifying important information that can support reading, revision, and study.
+## ✨ Features
 
-## Features
+- 🔑 Keyword & Keyphrase Extraction
+- 📊 Word Frequency Analysis
+- 🧠 TF-IDF & TextRank
+- 📝 Key Sentence Extraction
+- 📚 Topic Exploration & Revision Notes
+- ⬇️ Download Options
 
-- **Keyword Extraction:** Identify important keywords and keyphrases from text.
-- **Word Frequency Analysis:** Examine frequently occurring words.
-- **TF-IDF Analysis:** Identify terms based on their importance within a document.
-- **TextRank:** Rank important terms or sentences using graph-based relationships.
-- **Key Sentence Extraction:** Identify sentences that best represent the input text.
-- **Topic Exploration:** Explore important themes in the text.
-- **Revision Notes:** Generate concise study-oriented notes.
-- **Question Generation:** Generate questions using rule-based patterns.
-- **Download Options:** Access supported output and download features through the interface.
-- **Interactive Dashboard:** Explore results through a Streamlit web application.
+## 🛠️ Tech Stack
 
-## Technologies Used
+`Python` · `Streamlit` · `NLTK` · `Scikit-learn` · `NumPy` · `Pandas` · `NetworkX` · `Plotly`
 
-- Python
-- Streamlit
-- Natural Language Processing (NLP)
-- NLTK
-- Scikit-learn
-- NumPy
-- Pandas
-- NetworkX
-- Plotly
+## 🚀 Getting Started
 
-## Project Structure
-
-```text
-smart-keyword-extractor/
-├── app.py
-├── src/
-├── tests/
-├── style.css
-├── requirements.txt
-├── pytest.ini
-├── .gitignore
-└── README.md
-```
-
-## Installation and Setup
-
-### 1. Clone the repository
-
+**1. Clone the repository**
 ```bash
 git clone https://github.com/kaushikprijul/smart-keyword-extractor.git
 cd smart-keyword-extractor
 ```
 
-### 2. Create a virtual environment
-
+**2. Create and activate a virtual environment**
 ```bash
 python -m venv venv
 ```
 
-Activate it on Windows PowerShell:
-
+Windows PowerShell:
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
 
-### 3. Install dependencies
-
+**3. Install dependencies**
 ```bash
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
-### 4. Run the application
-
+**4. Run the application**
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 
-The application should open in your browser.
-
-## Testing
-
-Run the automated tests with:
+## 🧪 Run Tests
 
 ```bash
 python -m pytest -v
 ```
 
-## Purpose
+## 👨‍💻 Author
 
-The project demonstrates the application of NLP techniques and text-analysis methods through an interactive Python web application.
+**Kaushik Prijul** · [GitHub](https://github.com/kaushikprijul)
 
-## Author
+---
 
-**Kaushik Prijul**
-
-GitHub: [@kaushikprijul](https://github.com/kaushikprijul)
-
-## License
-
-No license has been specified yet.
+*Built with Python and Natural Language Processing.*
