@@ -1,20 +1,19 @@
 <div align="center">
 
-# 🔎 Smart Keyword Extractor
-### ✦ NLP-Powered Text Intelligence ✦
+# 🔍 Smart Keyword Extractor
 
-**Turn lengthy text into meaningful insights.**
+**✦ NLP-Powered Text Intelligence ✦**
 
-An interactive text analysis application built with Python and Streamlit to extract keywords, analyze word frequency, identify important sentences, explore topics, and generate revision notes.
+*Turn lengthy text into meaningful insights.*
 
 <br>
 
 <a href="https://smart-keyword-extractor.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_DEMO-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/✦_Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
 </a>
 &nbsp;
 <a href="https://github.com/kaushikprijul/smart-keyword-extractor">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  <img src="https://img.shields.io/badge/⌘_GitHub_Repository-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
 <br><br>
@@ -23,10 +22,8 @@ An interactive text analysis application built with Python and Streamlit to extr
 <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="NLP"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
-<br>
+<br><br>
 
-*Analyze smarter. Discover meaning. Learn faster.*
+*Analyze smarter · Discover meaning · Learn faster*
 
 </div>
-
----
