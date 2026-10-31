@@ -5,13 +5,13 @@
 
 <br>
 
-<a href="https://smart-keyword-extractor.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_DEMO-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/kaushikprijul/smart-keyword-extractor">
-  <img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
+  <a href="https://smart-keyword-extractor.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Try_Now-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaushikprijul/smart-keyword-extractor">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
 
 <br><br>
 
