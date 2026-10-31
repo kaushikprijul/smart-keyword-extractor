@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🔎 Smart Keyword Extractor
 ### ✦ NLP-Powered Text Intelligence ✦
 
